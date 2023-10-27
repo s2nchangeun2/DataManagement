@@ -10,6 +10,6 @@ Data Management Tool
 
 Use newest virsion of Excel Workbook.
 
-Check the box of Converting Toggle.
+Select Checking the box of Converting Toggle.
 
 Enter the File path Correctly.
